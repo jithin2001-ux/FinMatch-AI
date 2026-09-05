@@ -1,0 +1,101 @@
+Invoice,Vendor,Invoice Amount,Status,Priority,Financial Impact,Explanation,Recommended Action
+INV001,XYZ Technologies,10000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV002,DEF Solutions,7500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV003,XYZ Technologies,15000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV004,ABC Supplies,9500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV005,Green Energy,5000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV006,DEF Solutions,30000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV007,Smart Systems,18000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV008,LMN Traders,5000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV009,Smart Systems,10000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV010,DEF Solutions,12000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV011,XYZ Technologies,7500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV012,Global Office,10000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV013,Prime Logistics,7500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV014,XYZ Technologies,10000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV015,Global Office,9500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV016,ABC Supplies,9500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV017,XYZ Technologies,9500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV018,Smart Systems,18000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV019,PQR Services,12000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV020,LMN Traders,30000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV021,Metro Services,8000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV022,DEF Solutions,18000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV023,LMN Traders,30000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV024,DEF Solutions,12000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV025,DEF Solutions,5000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV026,Smart Systems,7500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV027,Metro Services,12000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV028,Prime Logistics,30000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV029,PQR Services,8000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV030,Green Energy,10000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV031,Smart Systems,25000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV032,Global Office,8000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV033,Prime Logistics,5000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV034,PQR Services,8000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV035,Metro Services,15000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV036,Metro Services,20000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV037,Green Energy,5000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV038,Green Energy,10000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV039,XYZ Technologies,15000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV040,Prime Logistics,10000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV041,PQR Services,7500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV042,Green Energy,9500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV043,Global Office,8000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV044,Green Energy,5000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV045,Global Office,5000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV046,Global Office,10000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV047,ABC Supplies,25000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV048,XYZ Technologies,18000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV049,Green Energy,8000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV050,Prime Logistics,20000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV051,LMN Traders,25000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV052,DEF Solutions,20000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV053,LMN Traders,30000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV054,Prime Logistics,20000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV055,XYZ Technologies,9500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV056,Global Office,25000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV057,DEF Solutions,9500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV058,XYZ Technologies,30000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV059,DEF Solutions,5000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV060,XYZ Technologies,9500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV061,Prime Logistics,20000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV062,Metro Services,18000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV063,Prime Logistics,15000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV064,XYZ Technologies,30000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV065,Global Office,15000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV066,ABC Supplies,30000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV067,ABC Supplies,12000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV068,DEF Solutions,9500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV069,Prime Logistics,15000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV070,LMN Traders,9500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV071,Prime Logistics,20000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV072,ABC Supplies,20000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV073,XYZ Technologies,9500,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV074,Smart Systems,18000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV075,Smart Systems,5000,MATCHED,LOW,0,Invoice amount and payment amount match exactly.,No action required.
+INV076,Smart Systems,15000,AMOUNT MISMATCH,MEDIUM,2000,"Invoice value is ₹15,000, but payment received is ₹13,000. Difference: ₹2,000.",Review the payment and verify whether this is an authorized partial payment.
+INV077,LMN Traders,20000,AMOUNT MISMATCH,MEDIUM,1000,"Invoice value is ₹20,000, but payment received is ₹19,000. Difference: ₹1,000.",Review the payment and verify whether this is an authorized partial payment.
+INV078,DEF Solutions,9500,AMOUNT MISMATCH,MEDIUM,5000,"Invoice value is ₹9,500, but payment received is ₹4,500. Difference: ₹5,000.",Review the payment and verify whether this is an authorized partial payment.
+INV079,Green Energy,12000,AMOUNT MISMATCH,MEDIUM,1000,"Invoice value is ₹12,000, but payment received is ₹11,000. Difference: ₹1,000.",Review the payment and verify whether this is an authorized partial payment.
+INV080,Metro Services,20000,AMOUNT MISMATCH,MEDIUM,1000,"Invoice value is ₹20,000, but payment received is ₹19,000. Difference: ₹1,000.",Review the payment and verify whether this is an authorized partial payment.
+INV081,ABC Supplies,20000,AMOUNT MISMATCH,MEDIUM,1000,"Invoice value is ₹20,000, but payment received is ₹19,000. Difference: ₹1,000.",Review the payment and verify whether this is an authorized partial payment.
+INV082,XYZ Technologies,7500,AMOUNT MISMATCH,MEDIUM,2000,"Invoice value is ₹7,500, but payment received is ₹5,500. Difference: ₹2,000.",Review the payment and verify whether this is an authorized partial payment.
+INV083,XYZ Technologies,25000,AMOUNT MISMATCH,MEDIUM,5000,"Invoice value is ₹25,000, but payment received is ₹20,000. Difference: ₹5,000.",Review the payment and verify whether this is an authorized partial payment.
+INV084,Metro Services,25000,AMOUNT MISMATCH,MEDIUM,2000,"Invoice value is ₹25,000, but payment received is ₹23,000. Difference: ₹2,000.",Review the payment and verify whether this is an authorized partial payment.
+INV085,Metro Services,20000,AMOUNT MISMATCH,MEDIUM,2000,"Invoice value is ₹20,000, but payment received is ₹18,000. Difference: ₹2,000.",Review the payment and verify whether this is an authorized partial payment.
+INV086,DEF Solutions,12000,MISSING PAYMENT,HIGH,12000,"No payment was found for the invoice of ₹12,000.",Follow up with the payment team and verify whether payment is overdue.
+INV087,DEF Solutions,15000,MISSING PAYMENT,HIGH,15000,"No payment was found for the invoice of ₹15,000.",Follow up with the payment team and verify whether payment is overdue.
+INV088,PQR Services,30000,MISSING PAYMENT,HIGH,30000,"No payment was found for the invoice of ₹30,000.",Follow up with the payment team and verify whether payment is overdue.
+INV089,LMN Traders,12000,MISSING PAYMENT,HIGH,12000,"No payment was found for the invoice of ₹12,000.",Follow up with the payment team and verify whether payment is overdue.
+INV090,XYZ Technologies,18000,MISSING PAYMENT,HIGH,18000,"No payment was found for the invoice of ₹18,000.",Follow up with the payment team and verify whether payment is overdue.
+INV091,Metro Services,7500,DUPLICATE PAYMENT,HIGH,7500,"2 payments were found. Invoice value: ₹7,500. Total paid: ₹15,000. Potential overpayment: ₹7,500.",Review the duplicate transaction and verify whether a refund or adjustment is required.
+INV092,Green Energy,20000,DUPLICATE PAYMENT,HIGH,20000,"2 payments were found. Invoice value: ₹20,000. Total paid: ₹40,000. Potential overpayment: ₹20,000.",Review the duplicate transaction and verify whether a refund or adjustment is required.
+INV093,PQR Services,12000,DUPLICATE PAYMENT,HIGH,12000,"2 payments were found. Invoice value: ₹12,000. Total paid: ₹24,000. Potential overpayment: ₹12,000.",Review the duplicate transaction and verify whether a refund or adjustment is required.
+INV094,DEF Solutions,10000,DUPLICATE PAYMENT,HIGH,10000,"2 payments were found. Invoice value: ₹10,000. Total paid: ₹20,000. Potential overpayment: ₹10,000.",Review the duplicate transaction and verify whether a refund or adjustment is required.
+INV095,Prime Logistics,20000,DUPLICATE PAYMENT,HIGH,20000,"2 payments were found. Invoice value: ₹20,000. Total paid: ₹40,000. Potential overpayment: ₹20,000.",Review the duplicate transaction and verify whether a refund or adjustment is required.
+INV096,Metro Services,30000,DUPLICATE PAYMENT,HIGH,30000,"2 payments were found. Invoice value: ₹30,000. Total paid: ₹60,000. Potential overpayment: ₹30,000.",Review the duplicate transaction and verify whether a refund or adjustment is required.
+INV097,ABC Supplies,20000,DUPLICATE PAYMENT,HIGH,20000,"2 payments were found. Invoice value: ₹20,000. Total paid: ₹40,000. Potential overpayment: ₹20,000.",Review the duplicate transaction and verify whether a refund or adjustment is required.
+INV098,XYZ Technologies,8000,DUPLICATE PAYMENT,HIGH,8000,"2 payments were found. Invoice value: ₹8,000. Total paid: ₹16,000. Potential overpayment: ₹8,000.",Review the duplicate transaction and verify whether a refund or adjustment is required.
+INV099,XYZ Technologies,7500,DUPLICATE PAYMENT,HIGH,7500,"2 payments were found. Invoice value: ₹7,500. Total paid: ₹15,000. Potential overpayment: ₹7,500.",Review the duplicate transaction and verify whether a refund or adjustment is required.
+INV100,PQR Services,10000,DUPLICATE PAYMENT,HIGH,10000,"2 payments were found. Invoice value: ₹10,000. Total paid: ₹20,000. Potential overpayment: ₹10,000.",Review the duplicate transaction and verify whether a refund or adjustment is required.
