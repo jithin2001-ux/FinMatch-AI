@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from sklearn.ensemble import IsolationForest
 
 # Page settings
 st.set_page_config(
@@ -10,7 +11,32 @@ st.set_page_config(
 
 # Load reconciliation results
 results = pd.read_csv("data/reconciliation_results.csv")
+# ML-based financial anomaly detection
+ml_data = results.copy()
 
+ml_data["Exception_Flag"] = (
+    ml_data["Status"] != "MATCHED"
+).astype(int)
+
+ml_features = ml_data[
+    ["Invoice Amount", "Financial Impact", "Exception_Flag"]
+].fillna(0)
+
+anomaly_model = IsolationForest(
+    n_estimators=100,
+    contamination="auto",
+    random_state=42
+)
+
+anomaly_model.fit(ml_features)
+
+results["ML_Anomaly_Score"] = -anomaly_model.decision_function(
+    ml_features
+)
+
+results["ML_Anomaly"] = (
+    anomaly_model.predict(ml_features) == -1
+)
 # Title
 st.title("💰 FinMatch AI")
 st.subheader("AI Finance Reconciliation Agent")
@@ -304,6 +330,23 @@ if len(exceptions_df) > 0:
     )
 
     st.markdown("#### 🤖 AI Investigation")
+# ML-based risk assessment for the selected exception
+ml_record = results[results["Invoice"] == selected["Invoice"]]
+
+if not ml_record.empty:
+    ml_row = ml_record.iloc[0]
+    ml_score = float(ml_row["ML_Anomaly_Score"])
+    ml_anomaly = bool(ml_row["ML_Anomaly"])
+
+    if ml_anomaly:
+        st.error("🔴 ML Risk Signal: Anomalous financial pattern detected")
+    else:
+        st.success("🟢 ML Risk Signal: No unusual financial pattern detected")
+
+    st.caption(
+        f"ML anomaly score: {ml_score:.3f} | "
+        f"Model considers invoice amount, financial impact, and exception status."
+    )
 
     if selected["Status"] == "MISSING PAYMENT":
 
